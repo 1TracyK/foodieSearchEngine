@@ -9,11 +9,12 @@
     --yellow;
     --tenne-tawny-dark: #b54507;
 }
+
 body{
     font-weight: 300;
     font-size: 1.05rem;
     line-height: 1.6;
-    fontt-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 /*  */
@@ -55,3 +56,4 @@ body{
     display: flex;
     align-items: stretch;
 }
+
