@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 hosting link (TODO)[http://todo.link]
 
@@ -21,3 +22,6 @@ with dishes from all over the world.
 As an individual responsible for a houshold
 I want to look up ingredients of recipes to e;nsures 
 that I'm within my household budget.
+=======
+# foodieSearchEngine
+>>>>>>> a3120dd6733d04d64a1c6f4c47e0771231897ae7

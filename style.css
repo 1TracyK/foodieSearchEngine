@@ -15,3 +15,11 @@ body{
     line-height: 1.6;
     fontt-family: 'Poppins', sans-serif;
 }
+
+/*  */
+.btn{
+    font-family: inherit;
+    cursor: pointer;
+    outline: 0;
+    font-size: 1.05rem;
+}
